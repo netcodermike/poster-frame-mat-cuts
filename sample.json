@@ -1,0 +1,12 @@
+{
+  "frame": [
+    400,
+    500
+  ],
+  "print": [
+    300,
+    400
+  ],
+  "overlap": 5,
+  "extra_bottom": 10
+}

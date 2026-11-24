@@ -1,0 +1,30 @@
+{
+  "command": [
+    "pwsh",
+    "-NoProfile",
+    "-File",
+    "app.ps1"
+  ],
+  "expected": {
+    "opening": [
+      290,
+      390
+    ],
+    "borders": {
+      "left": 55,
+      "right": 55,
+      "top": 50,
+      "bottom": 60
+    },
+    "corners": [
+      [
+        55,
+        50
+      ],
+      [
+        345,
+        440
+      ]
+    ]
+  }
+}
